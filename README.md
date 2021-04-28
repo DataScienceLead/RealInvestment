@@ -1,3 +1,5 @@
-#Real Investment - coding for phd papers
+# Real Investment - coding for phd papers
 
-MonteCarlo-simulation: Inspired by "https://pbpython.com/monte-carlo.html"
+Here are scripts used in my papers on real investments
+
+Note that the notebook on MonteCarlo-simulation is inspired by "https://pbpython.com/monte-carlo.html"
